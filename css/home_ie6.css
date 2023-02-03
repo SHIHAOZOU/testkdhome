@@ -1,0 +1,32 @@
+@charset "utf-8";
+/*IE6 浏览器兼容性调整*/
+
+a{
+	color:black;
+}
+.foot .news .newslist p a{
+	color:rgb(88,88,90);
+}
+.foot .news .newslist p:hover a{
+	color:rgb(0,167,126);
+}
+
+.content2 .left .label a{
+	color:rgb(148,149,153);
+}
+.content2 .left .current a{
+	color:rgb(0,167,126);
+}
+.content2 .right .newsinfo:hover a{
+	color:rgb(0,167,126);
+}
+.content2 .right .newsinfo a{
+	color:rgb(88,88,90);
+}
+.product_desc{
+	width:200px;
+}
+
+#btn_pos a{
+	cursor: hand;
+}
